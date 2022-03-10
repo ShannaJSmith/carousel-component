@@ -1,3 +1,18 @@
 .App {
   text-align: center;
+  width: 50%;
+  margin: 0 auto;
+}
+
+.slider {
+  position: relative;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+img {
+  width: 500px;
+  height: 300px;
 }

@@ -4,7 +4,8 @@ export const projects = [
     stack: 'React - Express - Node - MongoDB',
     description:
       'Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?',
-    image: './project-1.gif',
+    image:
+      'https://github.com/NancyBoktor/GIFT2ME/blob/master/docs/home-page.gif?raw=true',
     link: 'https://github.com/nsagias/i-only-wear-black',
   },
   {
@@ -30,7 +31,8 @@ export const projects = [
     stack: 'stack',
     description:
       'Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?',
-    image: './project-3.gif',
+    image:
+      'https://github.com/NancyBoktor/GIFT2ME/blob/master/docs/home-page.gif?raw=true',
     link: 'https://github.com/swamysanjay/midterm',
   },
   {
