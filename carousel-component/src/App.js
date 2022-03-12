@@ -11,9 +11,10 @@ function App() {
       <div className="App">
         <h1>Carousel</h1>
         <Carousel>
-          {items.map((project, index) => {
-            return <img src={project.image} alt="project" key={index} />;
-          })}
+          {items &&
+            items.map((project, index) => {
+              return <img src={project.image} alt="project" key={index} />;
+            })}
         </Carousel>
       </div>
     </>
