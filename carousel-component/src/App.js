@@ -12,8 +12,8 @@ function App() {
         <h1>Carousel</h1>
         <Carousel>
           {items &&
-            items.map((project, index) => {
-              return <img src={project.image} alt="project" key={index} />;
+            items.map((project) => {
+              return <img src={project.image} alt="project" key={project.id} />;
             })}
         </Carousel>
       </div>

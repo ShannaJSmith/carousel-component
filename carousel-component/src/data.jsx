@@ -1,5 +1,6 @@
 export const projects = [
   {
+    id: 1,
     title: 'I Only Wear Black',
     stack: 'React - Express - Node - MongoDB',
     description:
@@ -9,6 +10,7 @@ export const projects = [
     link: 'https://github.com/nsagias/i-only-wear-black',
   },
   {
+    id: 2,
     title: 'GIFT2ME',
     stack: 'React - Express - Node - PostgreSQL',
     description:
@@ -18,6 +20,7 @@ export const projects = [
     link: 'https://github.com/ShannaJSmith/GIFT2ME',
   },
   {
+    id: 3,
     title: 'Interview Scheduler',
     stack: 'React - Node - Express - Storybook - Cypress',
     description:
@@ -27,6 +30,7 @@ export const projects = [
     link: 'https://github.com/ShannaJSmith/scheduler',
   },
   {
+    id: 4,
     title: 'storyCreator',
     stack: 'stack',
     description:
@@ -36,6 +40,7 @@ export const projects = [
     link: 'https://github.com/swamysanjay/midterm',
   },
   {
+    id: 5,
     title: 'Tweeter',
     stack: 'stack',
     description:
@@ -45,6 +50,7 @@ export const projects = [
     link: 'https://github.com/ShannaJSmith/tweeter',
   },
   {
+    id: 6,
     title: 'TinyApp',
     stack: 'stack',
     description:
